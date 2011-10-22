@@ -1,0 +1,4 @@
+True
+[FROM]: "Senseo® Reparatur-Service" <Senseo-Repair@infotip.eu>
+[SUBJECT]: Versand Ihrer Senseo® Kaffeemaschine [18-DE-de-IT-senseo-5065036]
+[CONTENT]: javax.mail.internet.MimeMultipart@78a212

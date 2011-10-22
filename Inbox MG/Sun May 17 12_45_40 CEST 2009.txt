@@ -1,0 +1,4 @@
+True
+[FROM]: "PARKundSPAR.de" <buchung@parkundspar.de>
+[SUBJECT]: PARKundSPAR.de - Ihre Buchung:44832 / Sonntag, 17. Mai 2009
+[CONTENT]: javax.mail.internet.MimeMultipart@861f24

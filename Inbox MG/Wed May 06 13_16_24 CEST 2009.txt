@@ -1,0 +1,4 @@
+True
+[FROM]: info@reiselinie.de
+[SUBJECT]: Hallo Herr Guenther. Ihre Reiseanmeldung! 
+[CONTENT]: javax.mail.internet.MimeMultipart@11e1e67

@@ -1,0 +1,4 @@
+True
+[FROM]: service@tk-online.de
+[SUBJECT]: TK-Exklusiv - Ihre Registrierung
+[CONTENT]: javax.mail.internet.MimeMultipart@406199

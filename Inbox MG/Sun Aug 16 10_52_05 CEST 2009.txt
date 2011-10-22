@@ -1,0 +1,4 @@
+True
+[FROM]: "reiselinie.de" <info@reiselinie.de>
+[SUBJECT]: Reisebestätigung/Rechnung GUENTHER 11.03.2010 SSH 12397332
+[CONTENT]: javax.mail.internet.MimeMultipart@fe748f

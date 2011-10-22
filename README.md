@@ -5,8 +5,8 @@ in Java. This here is the collection of my code.
 
 ## Installation for Netbeans ##
 
-- just get the [source from github](url "zip from github") and extract it
-- also extract the *javamail-1.4.zip* => this package contains a Java library for handling emails
+- get the [source from github](url )
+- extract the *javamail-1.4.zip* => this package contains a Java library for handling emails
 - create a new project under NetBeans and copy all files of the *Mail Client* directory in the *src*
   directory of you NetBeans project
 - then you have to insert the *mail.jar* file in your project in the following way:

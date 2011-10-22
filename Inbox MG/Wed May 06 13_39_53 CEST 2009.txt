@@ -1,0 +1,4 @@
+True
+[FROM]: Joachim Guenther <resi76@web.de>
+[SUBJECT]: Re: Hallo Herr Guenther. Ihre Reiseanmeldung! 
+[CONTENT]: javax.mail.internet.MimeMultipart@10ab323

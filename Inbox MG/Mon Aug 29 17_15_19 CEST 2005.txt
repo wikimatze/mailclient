@@ -1,0 +1,4 @@
+True
+[FROM]: Herbert Hesse <BIM-Muehlhausen@t-online.de>
+[SUBJECT]: Aktuelle Adressenliste A1/76
+[CONTENT]: javax.mail.internet.MimeMultipart@b01d43

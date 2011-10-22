@@ -1,0 +1,4 @@
+True
+[FROM]: =?ISO-8859-15?Q?Wolfgang_G=FCnther?= <wolguenther@freenet.de>
+[SUBJECT]: Klassentreffen 2009 Jeschkental
+[CONTENT]: javax.mail.internet.MimeMultipart@1df5a8f

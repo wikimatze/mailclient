@@ -1,0 +1,4 @@
+True
+[FROM]: Condor <no-answer@condor.com>
+[SUBJECT]: Condor Reisebestätigung 9379598
+[CONTENT]: javax.mail.internet.MimeMultipart@10e3293

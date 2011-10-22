@@ -1,0 +1,4 @@
+True
+[FROM]: =?ISO-8859-15?Q?Sebastian_G=FCnther?= <kslgue@web.de>
+[SUBJECT]: Jahresziele W8 und W9
+[CONTENT]: javax.mail.internet.MimeMultipart@bfea1d

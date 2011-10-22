@@ -1,0 +1,4 @@
+True
+[FROM]: =?ISO-8859-15?Q?Sebastian_G=FCnther?= <kslgue@web.de>
+[SUBJECT]: Landkarte zur Zielerreichung
+[CONTENT]: javax.mail.internet.MimeMultipart@dc6a77
