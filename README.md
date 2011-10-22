@@ -36,3 +36,11 @@ Some pics so you have a clue what does it look like:
 
 - Basic surface of the program
 ![basic surface of the program](https://github.com/matthias-guenther/mailclient/raw/master/mail_client_1.jpg)
+- Dialog where you can add new accounts
+![basic surface of the program](https://github.com/matthias-guenther/mailclient/raw/master/mail_client_2.jpg)
+- Receive email of an already existing account
+![basic surface of the program](https://github.com/matthias-guenther/mailclient/raw/master/mail_client_3.jpg)
+- Window to write a new email
+![basic surface of the program](https://github.com/matthias-guenther/mailclient/raw/master/mail_client_4.jpg)
+- Drag-and-Drop window to manage emails
+![basic surface of the program](https://github.com/matthias-guenther/mailclient/raw/master/mail_client_5.jpg)
