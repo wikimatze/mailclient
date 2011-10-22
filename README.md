@@ -5,7 +5,7 @@ in Java. This here is the collection of my code.
 
 ## Installation for Netbeans ##
 
-- get the [source from github](url )
+- get the [source from github](https://github.com/matthias-guenther/mailclient )
 - extract the *javamail-1.4.zip* => this package contains a Java library for handling emails
 - create a new project under NetBeans and copy all files of the *Mail Client* directory in the *src*
   directory of you NetBeans project
@@ -28,3 +28,11 @@ in Java. This here is the collection of my code.
     - wrong paths to your project
     - POP3 and SMTP
     - *mail.jar* is not included correct in the project, but this will be shown in NetBeans
+
+
+## Images ##
+
+Some pics so you have a clue what does it look like:
+
+- Basic surface of the program
+![basic surface of the program](https://github.com/matthias-guenther/mailclient/raw/master/mail_client_1.png)
