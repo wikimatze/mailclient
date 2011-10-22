@@ -35,12 +35,12 @@ in Java. This here is the collection of my code.
 Some pics so you have a clue what does it look like:
 
 - Basic surface of the program
-    - ![basic surface of the program](https://github.com/matthias-guenther/mailclient/raw/master/mail_client_1.jpg)
+    - ![basic surface of the program](https://github.com/matthias-guenther/mailclient/raw/master/mail_client_1.png)
 - Dialog where you can add new accounts
-    - ![dialog to add new accounts](https://github.com/matthias-guenther/mailclient/raw/master/mail_client_2.jpg)
+    - ![dialog to add new accounts](https://github.com/matthias-guenther/mailclient/raw/master/mail_client_2.png)
 - Receive email of an already existing account
-    - ![receive email](https://github.com/matthias-guenther/mailclient/raw/master/mail_client_3.jpg)
+    - ![receive email](https://github.com/matthias-guenther/mailclient/raw/master/mail_client_3.png)
 - Window to write a new email
-    - ![write email](https://github.com/matthias-guenther/mailclient/raw/master/mail_client_4.jpg)
+    - ![write email](https://github.com/matthias-guenther/mailclient/raw/master/mail_client_4.png)
 - Drag-and-Drop window to manage emails
-    - ![drag-and-drop emails](https://github.com/matthias-guenther/mailclient/raw/master/mail_client_5.jpg)
+    - ![drag-and-drop emails](https://github.com/matthias-guenther/mailclient/raw/master/mail_client_5.png)
