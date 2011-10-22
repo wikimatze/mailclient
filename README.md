@@ -35,4 +35,4 @@ in Java. This here is the collection of my code.
 Some pics so you have a clue what does it look like:
 
 - Basic surface of the program
-![basic surface of the program](https://github.com/matthias-guenther/mailclient/raw/master/mail_client_1.png)
+![basic surface of the program](https://github.com/matthias-guenther/mailclient/raw/master/mail_client_1.jpg)
