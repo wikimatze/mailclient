@@ -2,7 +2,6 @@ During the summer term 2007 we had the task to create a Thunderbird like **mailc
 in Java. This here is the collection of my code.
 
 
-
 ## Installation for Netbeans ##
 
 - get the [source from github](https://github.com/matthias-guenther/mailclient )
@@ -44,3 +43,17 @@ Some pics so you have a clue what does it look like:
     - ![write email](https://github.com/matthias-guenther/mailclient/raw/master/mail_client_4.png)
 - Drag-and-Drop window to manage emails
     - ![drag-and-drop emails](https://github.com/matthias-guenther/mailclient/raw/master/mail_client_5.png)
+
+
+## Contact ##
+
+Feature request, bugs, questions, etc. can be send to <matthias.guenther@wikimatze.de>.
+
+
+## License ##
+
+This software is licensed under the [MIT license][mit].
+
+© 2011 Matthias Guenther <matthias.guenther@wikimatze.de>.
+
+[mit]: http://en.wikipedia.org/wiki/MIT_License
