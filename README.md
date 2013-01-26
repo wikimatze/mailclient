@@ -2,7 +2,7 @@ During the summer term 2007 we had the task to create a Thunderbird like **mailc
 in Java. This here is the collection of my code.
 
 
-## Installation for Netbeans ##
+## Installation for Netbeans
 
 - get the [source from github](https://github.com/matthias-guenther/mailclient )
 - extract the *javamail-1.4.zip* => this package contains a Java library for handling emails
@@ -29,7 +29,7 @@ in Java. This here is the collection of my code.
     - *mail.jar* is not included correct in the project, but this will be shown in NetBeans
 
 
-## Images ##
+## Images
 
 Some pics so you have a clue what does it look like:
 
@@ -45,15 +45,15 @@ Some pics so you have a clue what does it look like:
     - ![drag-and-drop emails](https://github.com/matthias-guenther/mailclient/raw/master/mail_client_5.png)
 
 
-## Contact ##
+## Contact
 
 Feature request, bugs, questions, etc. can be send to <matthias.guenther@wikimatze.de>.
 
 
-## License ##
+## License
 
 This software is licensed under the [MIT license][mit].
 
-© 2011 Matthias Guenther <matthias.guenther@wikimatze.de>.
+© 2011-2013 Matthias Günther <matthias.guenther@wikimatze.de>.
 
 [mit]: http://en.wikipedia.org/wiki/MIT_License
